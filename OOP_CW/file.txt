@@ -1,0 +1,27 @@
+Configuration{maxTicketCapacity=6, customerRetrievalRate=3000, ticketReleaseRate=4}
+Tickets released by Vendor=32
+Tickets released by Customer=31
+Configuration{maxTicketCapacity=6, customerRetrievalRate=3000, ticketReleaseRate=3}
+Tickets released by Vendor=30
+Tickets released by Customer=28
+
+Configuration{maxTicketCapacity=5, customerRetrievalRate=3000, ticketReleaseRate=3}
+Tickets released by Vendor=18
+Tickets released by Customer=18
+
+Configuration{maxTicketCapacity=6, customerRetrievalRate=3000, ticketReleaseRate=3}
+Tickets released by Vendor=16
+Tickets released by Customer=14
+
+Configuration{maxTicketCapacity=5, customerRetrievalRate=10000, ticketReleaseRate=4}
+Tickets released by Vendor=20
+Tickets released by Customer=9
+
+Configuration{maxTicketCapacity=5, customerRetrievalRate=3000, ticketReleaseRate=4}
+Tickets released by Vendor=32
+Tickets released by Customer=25
+
+Configuration{maxTicketCapacity=5, customerRetrievalRate=3000, ticketReleaseRate=3}
+Tickets released by Vendor=30
+Tickets released by Customer=27
+

@@ -1,0 +1,25 @@
+{
+  "ticketReleaseRate": 3,
+  "customerRetrievalRate": 3000,
+  "maxTicketCapacity": 5
+}
+{
+  "ticketReleaseRate": 3,
+  "customerRetrievalRate": 3000,
+  "maxTicketCapacity": 6
+}
+{
+  "ticketReleaseRate": 4,
+  "customerRetrievalRate": 10000,
+  "maxTicketCapacity": 5
+}
+{
+  "ticketReleaseRate": 4,
+  "customerRetrievalRate": 3000,
+  "maxTicketCapacity": 5
+}
+{
+  "ticketReleaseRate": 3,
+  "customerRetrievalRate": 3000,
+  "maxTicketCapacity": 5
+}
