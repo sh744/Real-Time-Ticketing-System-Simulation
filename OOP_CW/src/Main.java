@@ -27,6 +27,7 @@ public class Main {
         }
 
         System.out.println("Simulation running. Press Enter to exit.");
+        System.out.println("hi");
         Scanner scanner = new Scanner(System.in);
         scanner.nextLine();
 
